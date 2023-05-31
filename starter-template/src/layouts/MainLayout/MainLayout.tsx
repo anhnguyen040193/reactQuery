@@ -48,8 +48,8 @@ export default function MainLayout({ children }: Props) {
           </ul>
           <div className='mt-auto'>
             ©️ Copyright{' '}
-            <a href='https://duthanhduoc.com' target='_blank' rel='noreferrer' className='text-cyan-500'>
-              duthanhduoc.com
+            <a href='https://' target='_blank' rel='noreferrer' className='text-cyan-500'>
+              Katorj
             </a>
           </div>
         </div>
